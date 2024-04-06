@@ -1,0 +1,4 @@
+﻿  ContainerKinopoisk.cpp
+C:\Users\Omen 16-C0004UR\Рабочий стол\Учёба\ООП\2 семестр\ContainerKinopoisk\ContainerKinopoisk\ContainerKinopoisk.cpp(262): warning C4715: MyListTemplate<Episode>::Iterator::operator++: значение возвращается не при всех путях выполнения
+C:\Users\Omen 16-C0004UR\Рабочий стол\Учёба\ООП\2 семестр\ContainerKinopoisk\ContainerKinopoisk\ContainerKinopoisk.cpp(262): warning C4715: MyListTemplate<Person>::Iterator::operator++: значение возвращается не при всех путях выполнения
+  ContainerKinopoisk.vcxproj -> C:\Users\Omen 16-C0004UR\Рабочий стол\Учёба\ООП\2 семестр\ContainerKinopoisk\Debug\ContainerKinopoisk.exe
